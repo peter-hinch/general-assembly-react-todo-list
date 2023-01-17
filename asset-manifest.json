@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/general-assembly-react-todo-list/static/css/main.dbe3b851.css",
-    "main.js": "/general-assembly-react-todo-list/static/js/main.716ad704.js",
+    "main.js": "/general-assembly-react-todo-list/static/js/main.b0c93ebe.js",
     "static/media/paper.png": "/general-assembly-react-todo-list/static/media/paper.73d026fdb10aba5492ff.png",
     "static/media/eraser.png": "/general-assembly-react-todo-list/static/media/eraser.d4b7534d709300cabc44.png",
     "static/media/checkbox-checked.svg": "/general-assembly-react-todo-list/static/media/checkbox-checked.4989c04c98c0b009e658.svg",
@@ -10,10 +10,10 @@
     "static/media/checkbox-empty.svg": "/general-assembly-react-todo-list/static/media/checkbox-empty.c27d8ea71319b62a95df.svg",
     "index.html": "/general-assembly-react-todo-list/index.html",
     "main.dbe3b851.css.map": "/general-assembly-react-todo-list/static/css/main.dbe3b851.css.map",
-    "main.716ad704.js.map": "/general-assembly-react-todo-list/static/js/main.716ad704.js.map"
+    "main.b0c93ebe.js.map": "/general-assembly-react-todo-list/static/js/main.b0c93ebe.js.map"
   },
   "entrypoints": [
     "static/css/main.dbe3b851.css",
-    "static/js/main.716ad704.js"
+    "static/js/main.b0c93ebe.js"
   ]
 }
